@@ -1,0 +1,40 @@
+{
+ "key": "limburg",
+ "brand": "Lachgas Limburg",
+ "host": "lachgas-limburg.nl",
+ "site": "https://lachgas-limburg.nl",
+ "word": "Limburg",
+ "wa": "31684626182",
+ "mail": "info@lachgas-limburg.nl",
+ "keyword": "lachgas limburg",
+ "alt_names": [
+  "lachgas-limburg.nl",
+  "lachgaslimburg.nl"
+ ],
+ "home_title": "Lachgas Limburg | Lachgas bestellen, bezorgd via WhatsApp",
+ "html_lang": "nl",
+ "hl": "nl",
+ "lang": "nl-NL",
+ "locale": "nl_NL",
+ "country": "NL",
+ "payment": "Contant, Tikkie",
+ "same_as": [],
+ "extra_service": [],
+ "family": "prov",
+ "domain": "https://lachgas-limburg.nl",
+ "area_dirs": [
+  "lachgas-bezorgen"
+ ],
+ "city": null,
+ "region": "Limburg",
+ "region_long": "heel Limburg",
+ "geo_region": "NL-LI",
+ "place": "Limburg",
+ "geo": null,
+ "theme": "#1c1917",
+ "accent": "#9b1b30",
+ "og": "/assets/og-lachgas-limburg.png",
+ "logo": "/assets/icon-512.png",
+ "apple": "/assets/apple-touch-icon.png",
+ "og_alt": "Lachgas Limburg: lachgas bestellen in heel Limburg, bezorgd via WhatsApp"
+}
